@@ -1,0 +1,47 @@
+{
+  "items": [{
+    "location": "FRA",
+    "feedbacks": [{
+      "relevance": 5,
+      "casestudies": 1,
+      "coursematerial": 2,
+      "improvementofskill": 3,
+      "usefordailywork": 4,
+      "trainingstructure": 5,
+      "comment": "Lorem Ipsum"
+    },
+      {
+        "relevance": 5,
+        "casestudies": 4,
+        "coursematerial": 3,
+        "improvementofskill": 2,
+        "usefordailywork": 1,
+        "trainingstructure": 5,
+        "comment": "Ipsum Lorem"
+      }
+    ]
+  },
+    {
+      "location": "LUX",
+      "feedbacks": [{
+        "relevance": 5,
+        "casestudies": 1,
+        "coursematerial": 2,
+        "improvementofskill": 3,
+        "usefordailywork": 4,
+        "trainingstructure": 5,
+        "comment": "Lorem Ipsum"
+      },
+        {
+          "relevance": 5,
+          "casestudies": 4,
+          "coursematerial": 3,
+          "improvementofskill": 2,
+          "usefordailywork": 1,
+          "trainingstructure": 5,
+          "comment": "Ipsum Lorem"
+        }
+      ]
+    }
+  ]
+}

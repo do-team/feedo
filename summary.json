@@ -1,0 +1,23 @@
+{
+  "items": [{
+    "location": "FRA",
+    "relevance": 0.5,
+    "casestudies": 1.5,
+    "coursematerial": 2.5,
+    "improvementofskill": 3.5,
+    "usefordailywork": 4.5,
+    "trainingstructure": 4.8,
+    "comments": ["Lorem Ipsum", "Ipsum Lorem"]
+  },
+    {
+      "location": "LUX",
+      "relevance": 0.5,
+      "casestudies": 1.5,
+      "coursematerial": 2.5,
+      "improvementofskill": 3.5,
+      "usefordailywork": 4.5,
+      "trainingstructure": 4.8,
+      "comments": ["Lorem Ipsum", "Ipsum Lorem"]
+    }
+  ]
+}
